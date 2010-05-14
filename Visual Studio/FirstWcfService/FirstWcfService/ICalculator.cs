@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.ServiceModel;
 
-namespace Microsoft.ServiceModel.Samples
+namespace MicrosoftCorporation.ServiceModel.Samples
 {
     //
     // Basic interface that defines a service contract
