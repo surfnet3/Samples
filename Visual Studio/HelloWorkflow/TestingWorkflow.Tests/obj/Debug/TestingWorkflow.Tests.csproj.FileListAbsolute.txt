@@ -1,0 +1,7 @@
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\TestingWorkflow.Tests\bin\Debug\TestingWorkflow.Tests.dll
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\TestingWorkflow.Tests\bin\Debug\TestingWorkflow.Tests.pdb
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\TestingWorkflow.Tests\bin\Debug\TestingWorkflow.exe
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\TestingWorkflow.Tests\bin\Debug\TestingWorkflow.pdb
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\TestingWorkflow.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\TestingWorkflow.Tests\obj\Debug\TestingWorkflow.Tests.dll
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\TestingWorkflow.Tests\obj\Debug\TestingWorkflow.Tests.pdb

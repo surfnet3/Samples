@@ -1,0 +1,2 @@
+obj\x86\Release\_SayHello.g.cs
+obj\x86\Release\SayHello.g.cs

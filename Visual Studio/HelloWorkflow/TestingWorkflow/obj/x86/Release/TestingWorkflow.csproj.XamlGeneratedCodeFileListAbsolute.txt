@@ -1,0 +1,2 @@
+obj\x86\Release\_TestingWorkflow.g.cs
+obj\x86\Release\SayHello.g.cs

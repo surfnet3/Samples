@@ -1,0 +1,14 @@
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\SayHello\bin\Release\SayHello.exe.config
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\SayHello\bin\Release\SayHello.exe
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\SayHello\bin\Release\SayHello.pdb
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\SayHello\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\SayHello\obj\x86\Release\SayHello.g.xaml
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\SayHello\obj\x86\Release\_SayHello.g.cs
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\SayHello\obj\x86\Release\SayHello.g.cs
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\SayHello\obj\x86\Release\SayHello.csproj.XamlGeneratedCodeFileListAbsolute.txt
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\SayHello\obj\x86\Release\SayHello.csproj.XamlGeneratedXamlFileListAbsolute.txt
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\SayHello\obj\x86\Release\InProcessTempFiles\SayHello.g.cs
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\SayHello\obj\x86\Release\InProcessTempFiles\SayHello.g.xaml
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\SayHello\obj\x86\Release\InProcessTempFiles\_SayHello.g.cs
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\SayHello\obj\x86\Release\SayHello.exe
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\SayHello\obj\x86\Release\SayHello.pdb

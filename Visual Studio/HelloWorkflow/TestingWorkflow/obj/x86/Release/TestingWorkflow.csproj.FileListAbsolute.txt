@@ -1,0 +1,14 @@
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\TestingWorkflow\bin\Release\TestingWorkflow.exe.config
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\TestingWorkflow\bin\Release\TestingWorkflow.exe
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\TestingWorkflow\bin\Release\TestingWorkflow.pdb
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\TestingWorkflow\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\TestingWorkflow\obj\x86\Release\SayHello.g.xaml
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\TestingWorkflow\obj\x86\Release\_TestingWorkflow.g.cs
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\TestingWorkflow\obj\x86\Release\SayHello.g.cs
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\TestingWorkflow\obj\x86\Release\TestingWorkflow.csproj.XamlGeneratedCodeFileListAbsolute.txt
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\TestingWorkflow\obj\x86\Release\TestingWorkflow.csproj.XamlGeneratedXamlFileListAbsolute.txt
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\TestingWorkflow\obj\x86\Release\InProcessTempFiles\SayHello.g.cs
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\TestingWorkflow\obj\x86\Release\InProcessTempFiles\SayHello.g.xaml
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\TestingWorkflow\obj\x86\Release\InProcessTempFiles\_TestingWorkflow.g.cs
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\TestingWorkflow\obj\x86\Release\TestingWorkflow.exe
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\TestingWorkflow\obj\x86\Release\TestingWorkflow.pdb

@@ -1,0 +1,7 @@
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\DynamicWorkflowWithXaml\bin\Debug\SayHelloWithXaml.xaml
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\DynamicWorkflowWithXaml\bin\Debug\DynamicWorkflowWithXaml.exe.config
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\DynamicWorkflowWithXaml\bin\Debug\DynamicWorkflowWithXaml.exe
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\DynamicWorkflowWithXaml\bin\Debug\DynamicWorkflowWithXaml.pdb
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\DynamicWorkflowWithXaml\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\DynamicWorkflowWithXaml\obj\x86\Debug\DynamicWorkflowWithXaml.exe
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\DynamicWorkflowWithXaml\obj\x86\Debug\DynamicWorkflowWithXaml.pdb

@@ -1,0 +1,6 @@
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\CodeActivity\bin\Release\CodeActivity.exe.config
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\CodeActivity\bin\Release\CodeActivity.exe
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\CodeActivity\bin\Release\CodeActivity.pdb
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\CodeActivity\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\CodeActivity\obj\x86\Release\CodeActivity.exe
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\HelloWorkflow\CodeActivity\obj\x86\Release\CodeActivity.pdb
