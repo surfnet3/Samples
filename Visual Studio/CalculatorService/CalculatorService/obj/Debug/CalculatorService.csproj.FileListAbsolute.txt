@@ -1,0 +1,5 @@
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\CalculatorService\CalculatorService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\CalculatorService\CalculatorService\bin\CalculatorService.dll
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\CalculatorService\CalculatorService\bin\CalculatorService.pdb
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\CalculatorService\CalculatorService\obj\Debug\CalculatorService.dll
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\CalculatorService\CalculatorService\obj\Debug\CalculatorService.pdb

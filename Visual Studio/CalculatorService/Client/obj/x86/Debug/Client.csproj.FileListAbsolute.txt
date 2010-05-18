@@ -1,0 +1,6 @@
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\CalculatorService\Client\bin\Debug\Client.exe
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\CalculatorService\Client\bin\Debug\Client.pdb
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\CalculatorService\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\CalculatorService\Client\obj\x86\Debug\Client.exe
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\CalculatorService\Client\obj\x86\Debug\Client.pdb
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\CalculatorService\Client\bin\Debug\Client.exe.config
