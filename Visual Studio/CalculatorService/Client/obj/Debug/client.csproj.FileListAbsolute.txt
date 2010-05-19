@@ -1,0 +1,12 @@
+C:\.NET 4\WF_WCF_Samples\WCF\Basic\Binding\WS\wsHttp\CS\client\bin\client.exe.config
+C:\.NET 4\WF_WCF_Samples\WCF\Basic\Binding\WS\wsHttp\CS\client\bin\client.exe
+C:\.NET 4\WF_WCF_Samples\WCF\Basic\Binding\WS\wsHttp\CS\client\bin\client.pdb
+C:\.NET 4\WF_WCF_Samples\WCF\Basic\Binding\WS\wsHttp\CS\client\obj\Debug\ResolveAssemblyReference.cache
+C:\.NET 4\WF_WCF_Samples\WCF\Basic\Binding\WS\wsHttp\CS\client\obj\Debug\client.exe
+C:\.NET 4\WF_WCF_Samples\WCF\Basic\Binding\WS\wsHttp\CS\client\obj\Debug\client.pdb
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\CalculatorService\Client\bin\Client.exe.config
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\CalculatorService\Client\bin\Client.exe
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\CalculatorService\Client\bin\Client.pdb
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\CalculatorService\Client\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\CalculatorService\Client\obj\Debug\Client.exe
+C:\Users\Wong\Desktop\Git Repositories\Samples\Visual Studio\CalculatorService\Client\obj\Debug\Client.pdb

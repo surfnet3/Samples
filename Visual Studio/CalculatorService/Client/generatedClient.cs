@@ -1,25 +1,25 @@
-﻿using System.CodeDom.Compiler;
-using System.ServiceModel;
+﻿using System.ServiceModel;
 using System.ServiceModel.Channels;
+using System.CodeDom.Compiler;
 using System.Diagnostics;
 //
-namespace FirstWcfService
+namespace FirstWcfClient
 {
     [GeneratedCode("System.ServiceModel", "4.0.0.0")]
-    [ServiceContract(Namespace = "FirstWcfService", ConfigurationName = "FirstWcfService.ICalculator")]
+    [ServiceContract(Namespace = "http://www.sevenpi.com", ConfigurationName = "FirstWcfService.ICalculator")]
     public interface ICalculator
     {
-        [OperationContract(Action = "FirstWcfService/ICalculator/Add", ReplyAction = "FirstWcfService/ICalculator/AddResponse")]
+        [OperationContract(Action = "http://www.sevenpi.com/ICalculator/Add", ReplyAction = "http://www.sevenpi.com/ICalculator/AddResponse")]
         double Add(double n1, double n2);
-        [OperationContract(Action = "FirstWcfService/ICalculator/Subtract", ReplyAction = "FirstWcfService/ICalculator/SubtractResponse")]
+        [OperationContract(Action = "http://www.sevenpi.com/ICalculator/Subtract", ReplyAction = "http://www.sevenpi.com/ICalculator/SubtractResponse")]
         double Subtract(double n1, double n2);
-        [OperationContract(Action = "FirstWcfService/ICalculator/Multiply", ReplyAction = "FirstWcfService/ICalculator/MultiplyResponse")]
+        [OperationContract(Action = "http://www.sevenpi.com/ICalculator/Multiply", ReplyAction = "http://www.sevenpi.com/ICalculator/MultiplyResponse")]
         double Multiply(double n1, double n2);
-        [OperationContract(Action = "FirstWcfService/ICalculator/Divide", ReplyAction = "FirstWcfService/ICalculator/DivideResponse")]
+        [OperationContract(Action = "http://www.sevenpi.com/ICalculator/Divide", ReplyAction = "http://www.sevenpi.com/ICalculator/DivideResponse")]
         double Divide(double n1, double n2);
     }
     [GeneratedCode("System.ServiceModel", "4.0.0.0")]
-    public interface ICalculatorChannel : ICalculator, IClientChannel
+    public interface ICalculatorChannel : ICalculator, System.ServiceModel.IClientChannel
     {
     }
     [DebuggerStepThrough()]

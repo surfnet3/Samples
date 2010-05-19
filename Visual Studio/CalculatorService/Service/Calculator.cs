@@ -1,14 +1,12 @@
 ﻿using System;
 using System.ServiceModel;
 //
-//
-//
 namespace FirstWcfService
 {
     //
     // Define a service contract
     //
-    [ServiceContract(Namespace = "FirstWcfService")]
+    [ServiceContract(Namespace="http://www.sevenpi.com")]
     public interface ICalculator
     {
         [OperationContract]
@@ -23,7 +21,7 @@ namespace FirstWcfService
     //
     // Service class which implements the service contract
     //
-    public class CalculatorService : ICalculator
+    public class Calculator : ICalculator
     {
         public double Add(double n1, double n2)
         {
