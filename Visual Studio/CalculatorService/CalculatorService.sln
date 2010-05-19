@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorService", "CalculatorService\CalculatorService.csproj", "{CEBFE970-8519-4D00-8809-E550C35D427D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{FF2B242E-89D8-40BF-9C77-0236CADB2C03}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{A9155A03-6242-4838-8477-E0F26D4B0E6C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,16 +25,16 @@ Global
 		{CEBFE970-8519-4D00-8809-E550C35D427D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{CEBFE970-8519-4D00-8809-E550C35D427D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{CEBFE970-8519-4D00-8809-E550C35D427D}.Release|x86.ActiveCfg = Release|Any CPU
-		{FF2B242E-89D8-40BF-9C77-0236CADB2C03}.Debug|Any CPU.ActiveCfg = Debug|x86
-		{FF2B242E-89D8-40BF-9C77-0236CADB2C03}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
-		{FF2B242E-89D8-40BF-9C77-0236CADB2C03}.Debug|Mixed Platforms.Build.0 = Debug|x86
-		{FF2B242E-89D8-40BF-9C77-0236CADB2C03}.Debug|x86.ActiveCfg = Debug|x86
-		{FF2B242E-89D8-40BF-9C77-0236CADB2C03}.Debug|x86.Build.0 = Debug|x86
-		{FF2B242E-89D8-40BF-9C77-0236CADB2C03}.Release|Any CPU.ActiveCfg = Release|x86
-		{FF2B242E-89D8-40BF-9C77-0236CADB2C03}.Release|Mixed Platforms.ActiveCfg = Release|x86
-		{FF2B242E-89D8-40BF-9C77-0236CADB2C03}.Release|Mixed Platforms.Build.0 = Release|x86
-		{FF2B242E-89D8-40BF-9C77-0236CADB2C03}.Release|x86.ActiveCfg = Release|x86
-		{FF2B242E-89D8-40BF-9C77-0236CADB2C03}.Release|x86.Build.0 = Release|x86
+		{A9155A03-6242-4838-8477-E0F26D4B0E6C}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{A9155A03-6242-4838-8477-E0F26D4B0E6C}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{A9155A03-6242-4838-8477-E0F26D4B0E6C}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{A9155A03-6242-4838-8477-E0F26D4B0E6C}.Debug|x86.ActiveCfg = Debug|x86
+		{A9155A03-6242-4838-8477-E0F26D4B0E6C}.Debug|x86.Build.0 = Debug|x86
+		{A9155A03-6242-4838-8477-E0F26D4B0E6C}.Release|Any CPU.ActiveCfg = Release|x86
+		{A9155A03-6242-4838-8477-E0F26D4B0E6C}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{A9155A03-6242-4838-8477-E0F26D4B0E6C}.Release|Mixed Platforms.Build.0 = Release|x86
+		{A9155A03-6242-4838-8477-E0F26D4B0E6C}.Release|x86.ActiveCfg = Release|x86
+		{A9155A03-6242-4838-8477-E0F26D4B0E6C}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
